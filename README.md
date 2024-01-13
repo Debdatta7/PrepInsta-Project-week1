@@ -1,2 +1,2 @@
 # Internship
-PrepInsta Winter Internship Projects
+PrepInsta Winter Internship Project
